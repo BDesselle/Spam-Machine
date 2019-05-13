@@ -6,10 +6,10 @@ Spam Machine - A Spam Bot - First time ever using Python.
 ## Dependency
 
 I used PyAutoGUI to move and click on a pre-determined location, type a message, and send.
-- [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
+[PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
 
 I also used the `Time` module to add a pause in the loop to keep the message cooldowns at bay. I'm pretty sure there are alot of other ways to do this, especially inside of [AutoGUI](https://pyautogui.readthedocs.io/en/latest/cheatsheet.html) with the `pause` function. I just attempted the first thing that came to mind and just went with it.
-- [Python Central](https://www.pythoncentral.io/pythons-time-sleep-pause-wait-sleep-stop-your-code/)
+[Python Central](https://www.pythoncentral.io/pythons-time-sleep-pause-wait-sleep-stop-your-code/)
 
 ## Directions
 
